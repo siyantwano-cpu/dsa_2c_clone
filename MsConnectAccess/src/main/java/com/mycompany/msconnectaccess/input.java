@@ -8,9 +8,9 @@ package com.mycompany.msconnectaccess;
  *
  * @author CL2-PC
  */
-class lbl_player2Health {
+class input {
 
-    static void setText(String string) {
+    static int nextInt() {
         throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
     }
     
