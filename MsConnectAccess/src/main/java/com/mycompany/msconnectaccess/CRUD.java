@@ -255,7 +255,6 @@ public class CRUD extends javax.swing.JFrame {
         btnUpdate.setEnabled(false);
         btnDelete.setEnabled(false);
         btnAdd.setEnabled(true);
-        
     }//GEN-LAST:event_btnClearActionPerformed
 
     private void btnAddActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnAddActionPerformed
